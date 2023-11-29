@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/Test_Turkov/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/ThirdPerson/Input/Actions/IA_Roll.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Characters/Mannequins/Animations/Manny/AM_Roll.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Characters/Mannequins/Animations/Manny/AS_Roll.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7N/V5Y31A6KCXHFYHW9RJEGNM.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Y9/SWV2H7LY94SM6LQE09JXCZ.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Chat/AC_Chat.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Chat/BP_GameChat.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Chat/WB_ChatBox.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Chat/WB_ChatEntry.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Chat/AC_Chat_PC.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Chat/BP_GamePC.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Chat/WB_ChatUI.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Characters/Mannequins/Animations/Manny/RollAnim.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Characters/Mannequins/Animations/Manny/MM_RollAnim.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Characters/Mannequins/Animations/Manny/MM_RollAnim_Montage.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/Characters/Mannequins/Animations/Manny/AM_RollAnim_Montage.uasset",
+				"D:/UnrealProjects/Test_Turkov/Content/ThirdPerson/Input/Actions/IMC_Move.uasset"
+			]
+		}
+	]
+}
